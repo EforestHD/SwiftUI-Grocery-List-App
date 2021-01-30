@@ -1,4 +1,4 @@
-# ToDo List written in SwiftUI
+# Grocery List written in SwiftUI
 
 ### Features
 
