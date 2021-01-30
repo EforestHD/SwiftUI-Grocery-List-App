@@ -16,8 +16,8 @@
 
 ### Screenhots
 
-| <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockup1.png" width="800" /> | <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockup2.png" width="800" /> |   |
-| -------- | -------- | -------- | 
+| <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockup1.png" width="800" /> | <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockup2.png" width="800" /> | 
+| -------- | -------- |  
 
 
 ### Mockups
