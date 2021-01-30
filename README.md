@@ -22,7 +22,7 @@
 
 ### Mockups
 
-<img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/master/Screenshots/mockupdiverse1.png" width="1200" />
+<img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockupdiverse1.png" width="1200" />
 
 <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockupdiverse2.png" width="1200" />
 
@@ -41,8 +41,6 @@
 <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockuprender1.jpg" width="1200" />
 
 <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockuprender2.jpg" width="1200" />
-
-<img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockuprender1.jpg" width="1200" />
 
 <img src="https://github.com/EforestHD/SwiftUI-ToDo-List/blob/main/Screenshots/mockupdark1.jpg" width="1200" />
 
